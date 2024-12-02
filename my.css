@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 231, 255);
+}
+
+.big{
+    font-size: 45pt;
+    color: #ce53ff;
+    text-align: center;
+    font-family: cordia new;
+}
+
+.normal{
+    font-size: 20pt;
+    color: #ff8bcf;
+    font-family: cordia new;
+    text-align: center;
+}
